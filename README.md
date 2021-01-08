@@ -13,3 +13,8 @@ Files consists of the following parts:
 - Methodology: description of Collaborative Filtering (CF) and KNN algorithmms
 - Top-N Movie Recommender System Algorithm step-by-step
 - Evaluation of the results 
+
+Publications: 
+- Aggarwal, C. (2016). Recommender Systems. Thomas J. Watson Research Center.
+- Billsus, D. and Pazzani, M. J. (1998). Learning collaborative information filters. In Proceedings of the Fifteenth International Conference on Machine Learning, pages 46–54. Morgan Kaufmann Publishers Inc.
+- Harper, F. M. and Konstan, J. A. (2015). The movielens datasets: History and context. ACM, 5(4):1–19.

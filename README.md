@@ -20,7 +20,7 @@ Publications:
 - Harper, F. M. and Konstan, J. A. (2015). The movielens datasets: History and context. ACM, 5(4):1–19.
 
 # K-Means Algorithm
-File name: K_Means_Clustering.R
+File name: K_Means_Clustering.R, K_Means_Algorithm.pdf
 
 Programming Languages: R 
 

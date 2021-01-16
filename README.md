@@ -19,6 +19,20 @@ Publications:
 - Billsus, D. and Pazzani, M. J. (1998). Learning collaborative information filters. In Proceedings of the Fifteenth International Conference on Machine Learning, pages 46–54. Morgan Kaufmann Publishers Inc.
 - Harper, F. M. and Konstan, J. A. (2015). The movielens datasets: History and context. ACM, 5(4):1–19.
 
+# Linear Discriminant Analysis (LDA) Algorithm
+File name: LDA.R 
+Programming Language: R 
+Note: the code contains LDA and robust LDA mannually written functions (checked with the library function's output)
+
+Linear discriminant analysis (LDA) (don't confuss this with Latent Dirichlit Allocation which is Topic Modelling technique) is a generalization of Fisher's linear discriminant, which is a statistical method to find a linear combination of features that characterizes/separates two or more classes of objects. The resulting combination may be used as a linear classifier. LDA is closely related to analysis of variance (ANOVA) and regression analysis, which also attempt to express one (dependent) variable as a linear combination of other (independent) variables. However, ANOVA uses a continuous dependent variable and categorical independent variables, whereas LDA uses a categorical dependent variable (classes of LDA) and continuous independent variables. Logistic regression and Probit regression are more similar to LDA than ANOVA is, as they also explain a categorical (dependent) variable by the values of continuous (independent) variables. The key difference between Logistic Regression/Probit regression and LDA is the assumption about the probability distribution about the explanatory (independent) variables. In case of LDA , fundamental assumtion is that the independent variables are normally distributed. This can be checked by looking at the probability distribution of the variables.
+
+Linear discriminant analysis is largely used in the field of Computer Science and AI in the Face Recognition to reduce the number of features to a more manageable number before the process of classification. Each of the new dimensions generated is a linear combination of pixel values, which form a template. LDA is also used in Data Science for customer segementation. For instance LDA is used to identify the type of customers which are most likely to buy a particular product in a shopping mall. Finally LDA is used in Medicine: In this field, to classify patient's disease state to three categories (mild, moderate, severe) based upon the patient characteristics, symptoms and the type of treatment he is going through. This helps the doctors to intensify or reduce the pace of their treatment.
+
+Publications:
+
+- Nasar, S., Aldian, A., Nuredin, J., and Abusaeeda, I. (2016). Classification depend on linear discriminant analysis using desired outputs. 1109(10)
+- Zhao, H., Wang, Z., and Nie, F. (2019) A New Formulation of Linear Discriminant Analysis for Robust Dimensionality Reduction. 31(4):629-640
+
 
 # K-Means Algorithm
 File name: K_Means_Clustering.R, K_Means_Algorithm.pdf

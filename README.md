@@ -50,8 +50,8 @@ Publications:
 - Duchessi, P. and Lauria, E. (2013). Decision tree models for profiling ski resorts’ promotional and advertising strategies and the impact on sales. 40(15):5822–5829.
 
 
-
-
+# 5: Cluster Dyamics Algorithm
+File name: Cluster_Dynamics_algorithm.R
 
 
 

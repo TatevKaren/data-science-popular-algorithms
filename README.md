@@ -56,4 +56,5 @@ File name: Cluster_Dynamics_algorithm.R
 
 
 
-
+# 6: Recency Frequency Monetart Customer Segmentation Algorithm
+File names: RFM_model.R, Recency_Frequency_Monetary_model.pdf

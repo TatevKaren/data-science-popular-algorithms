@@ -1,24 +1,10 @@
 # Data Science 
 (Code and Papers)
 # 1: TopN Movie Recommender Case Study
-- Get currency symbol using currency code
 
-	.. code-block:: python
+You can view the Paper/Documentation here: https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.pdf
 
-			python
-			>>> from forex_python.converter import CurrencyCodes
-			>>> c = CurrencyCodes()
-			>>> print c.get_symbol('GBP')
-			£
-
-
-You can view the Paper/Documentation here `Documentation Here`_
-
-View the Python Code `Here`_
-
-.. _Documentation Here: https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.pdf
-
-.. _Here: https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py
+View the Python Code: https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py
 
 
 

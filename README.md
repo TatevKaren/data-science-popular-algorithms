@@ -3,9 +3,11 @@
 # 1: TopN Movie Recommender Case Study
 
 You can view the Paper/Documentation here `Documentation Here`_
+
 View the Python Code `Here`_
 
 .. _Documentation Here: https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.pdf
+
 .. _Here: https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py
 
 

@@ -1,5 +1,4 @@
 # Data Science 
-(Code and Papers)
 # 1: TopN Movie Recommender Case Study
 
 You can view the Paper/Documentation here: https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.pdf
@@ -59,9 +58,11 @@ Publications:
 # 5: Cluster Dyamics Algorithm
 File name: Cluster_Dynamics_algorithm.R
 
+# 6: XGBoost Algorithm
+XGBoost is a decision-tree-based ensemble Machine Learning algorithm that uses a gradient boosting framework. In prediction problems involving unstructured data (images, text, etc.) artificial neural networks tend to outperform all other algorithms or frameworks. However, when it comes to small-to-medium structured/tabular data, decision tree based algorithms are considered best-in-class right now. XGBoost and Gradient Boosting Machines (GBMs) are both ensemble tree methods that apply the principle of boosting weak learners (CARTs generally) using the gradient descent architecture. However, XGBoost improves upon the base GBM framework through systems optimization and algorithmic enhancements.
 
 
-# 6: RFM Customer Segmentation Algorithm
+# 7: RFM Customer Segmentation Algorithm
 File names: RFM_model.R, Recency_Frequency_Monetary_model.pdf
 
 RFM stands for recency, frequency and monetary. RFM segmentation is a great method to identify groups of customers for special treatment. RFM segmentation allows marketers to target specific clusters of customers with communications that are much more relevant for their particular behavior – and thus generate much higher rates of response, plus increased loyalty and customer lifetime value. Data such as purchase history, browsing history, prior campaign response patterns and demographics can all be used to identify specific groups of customers that can be addressed with offers very relevant to each. 

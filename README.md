@@ -51,8 +51,7 @@ Decision tree is a decision support tool that uses a tree-like model of decision
 
 
 <p align="left">
-  <img src="https://github.com/TatevKaren/DataScience-Mustknow-Algorithms/blob/main/DecesionTree.png
-?raw=true"
+  <img src="https://github.com/TatevKaren/DataScience-Mustknow-Algorithms/blob/main/DecisionTree.png?raw=true"
   width="350" height="250">
 </p>
 

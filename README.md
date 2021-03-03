@@ -42,7 +42,7 @@ The ‘means’ in the K-means refers to averaging of the data; that is, finding
 
 <p align="left">
   <img src="https://github.com/TatevKaren/DataScience-Mustknow-Algorithms/blob/main/K-means example.png?raw=true"
-  width="400" height="450">
+  width="300" height="300">
 </p>
 
 Publications:
@@ -58,7 +58,7 @@ Decision tree is a decision support tool that uses a tree-like model of decision
 
 <p align="left">
   <img src="https://github.com/TatevKaren/DataScience-Mustknow-Algorithms/blob/main/DecisionTree.png?raw=true"
-  width="400" height="450">
+  width="450" height="550">
 </p>
 
 Publications:

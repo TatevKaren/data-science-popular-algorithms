@@ -42,7 +42,7 @@ The ‘means’ in the K-means refers to averaging of the data; that is, finding
 
 <p align="left">
   <img src="https://github.com/TatevKaren/DataScience-Mustknow-Algorithms/blob/main/K-means example.png?raw=true"
-  width="300" height="300">
+  width="380" height="350">
 </p>
 
 Publications:

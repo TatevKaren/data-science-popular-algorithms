@@ -39,6 +39,12 @@ File name: K_Means_Clustering.R, K_Means_Algorithm.pdf
 K-means clustering is a method of vector quantization with a goal to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster. k-means clustering minimizes within-cluster variances (squared Euclidean distances). This algorithm is also referred to as Lloyd's algorithm, particularly in the computer science community. It is sometimes also referred to as "naïve k-means", because there exist much faster alternatives. Target number k needs to be pre-determined, it refers to the number of centroids you need in the dataset. A centroid is the imaginary or real location representing the center of the cluster. Every data point is allocated to each of the clusters through reducing the in-cluster sum of squares. In other words, the K-means algorithm identifies k number of centroids, and then allocates every data point to the nearest cluster, while keeping the centroids as small as possible.
 The ‘means’ in the K-means refers to averaging of the data; that is, finding the centroid.
 
+
+<p align="left">
+  <img src="https://github.com/TatevKaren/DataScience-Mustknow-Algorithms/blob/main/K-means example.png?raw=true"
+  width="400" height="450">
+</p>
+
 Publications:
 - Forgy,  E.  W.  (1965).   Cluster  analysis  of  multivariate  data:  efficiency  versus  interpretability  ofclassifications.biometrics, 21:768–769.
 - Na, S., Xumin, L. and Yong, G. (2010), Research on k-means Clustering Algorithm: An Improved k-means Clustering Algorithm, 2010, pp. 63-67.

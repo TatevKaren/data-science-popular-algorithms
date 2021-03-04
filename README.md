@@ -76,7 +76,7 @@ XGBoost is a decision-tree-based ensemble Machine Learning algorithm that uses a
 <p align="left">
   <img src="https://analyticsindiamag.com/wp-content/uploads/2020/11/xgboost.png?raw=true"
   alt="Linear Regression plot"
-  width="400" height="250">
+  width="550" height="250">
 </p>
 
 # 7: RFM Customer Segmentation Algorithm

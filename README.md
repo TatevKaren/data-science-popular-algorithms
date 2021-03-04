@@ -73,6 +73,11 @@ File name: Cluster_Dynamics_algorithm.R
 # 6: XGBoost Algorithm
 XGBoost is a decision-tree-based ensemble Machine Learning algorithm that uses a gradient boosting framework. In prediction problems involving unstructured data (images, text, etc.) artificial neural networks tend to outperform all other algorithms or frameworks. However, when it comes to small-to-medium structured/tabular data, decision tree based algorithms are considered best-in-class right now. XGBoost and Gradient Boosting Machines (GBMs) are both ensemble tree methods that apply the principle of boosting weak learners (CARTs generally) using the gradient descent architecture. However, XGBoost improves upon the base GBM framework through systems optimization and algorithmic enhancements.
 
+<p align="left">
+  <img src="https://opendatascience.com/wp-content/uploads/2018/09/gbdt_attractive_picture-750x295.png?raw=true"
+  alt="Linear Regression plot"
+  width="350" height="250">
+</p>
 
 # 7: RFM Customer Segmentation Algorithm
 File names: RFM_model.R, Recency_Frequency_Monetary_model.pdf

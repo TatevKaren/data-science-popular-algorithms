@@ -86,7 +86,7 @@ RFM stands for recency, frequency and monetary. RFM segmentation is a great meth
 
 <p align="left">
   <img src=" https://860199.smushcdn.com/2079090/wp-content/uploads/predictive-segments-using-rfm-moengage-2.jpg?lossy=1&strip=1&webp=1?raw=true"
-  width="450" height="550">
+  width="650" height="300">
 </p>
  
 

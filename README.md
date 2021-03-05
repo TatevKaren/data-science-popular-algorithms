@@ -84,6 +84,12 @@ File names: RFM_model.R, Recency_Frequency_Monetary_model.pdf
 
 RFM stands for recency, frequency and monetary. RFM segmentation is a great method to identify groups of customers for special treatment. RFM segmentation allows marketers to target specific clusters of customers with communications that are much more relevant for their particular behavior – and thus generate much higher rates of response, plus increased loyalty and customer lifetime value. Data such as purchase history, browsing history, prior campaign response patterns and demographics can all be used to identify specific groups of customers that can be addressed with offers very relevant to each. 
 
+<p align="left">
+  <img src=" https://860199.smushcdn.com/2079090/wp-content/uploads/predictive-segments-using-rfm-moengage-2.jpg?lossy=1&strip=1&webp=1?raw=true"
+  width="450" height="550">
+</p>
+ 
+
 - **Recency:** How much time has elapsed since a customer’s last activity or transaction with the brand? 
 - **Frequency:** How often has a customer transacted or interacted with the brand during a particular period of time? 
 - **Monetary:** Also referred to as “monetary value,” this factor reflects how much a customer has spent with the brand during a particular period of time. 

@@ -18,11 +18,7 @@ Publications:
 - Billsus, D. and Pazzani, M. J. (1998). Learning collaborative information filters. In Proceedings of the Fifteenth International Conference on Machine Learning, pages 46–54. Morgan Kaufmann Publishers Inc.
 
 # 2: Linear Discriminant Analysis (LDA) Algorithm
-File name: LDA.R 
 View: <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA.R">R Code</a> 
-
-
-Programming Language: R 
 Note: the code contains LDA and robust LDA mannually written functions (checked with the library function's output)
 
 Linear discriminant analysis (LDA) (don't confuss this with Latent Dirichlit Allocation which is Topic Modelling technique) is a generalization of Fisher's linear discriminant, which is a statistical method to find a linear combination of features that characterizes/separates two or more classes of objects. The resulting combination may be used as a linear classifier. LDA is closely related to analysis of variance (ANOVA) and regression analysis, which also attempt to express one (dependent) variable as a linear combination of other (independent) variables. However, ANOVA uses a continuous dependent variable and categorical independent variables, whereas LDA uses a categorical dependent variable (classes of LDA) and continuous independent variables. Logistic regression and Probit regression are more similar to LDA than ANOVA is, as they also explain a categorical (dependent) variable by the values of continuous (independent) variables. The key difference between Logistic Regression/Probit regression and LDA is the assumption about the probability distribution about the explanatory (independent) variables. In case of LDA , fundamental assumtion is that the independent variables are normally distributed. This can be checked by looking at the probability distribution of the variables.
@@ -68,9 +64,8 @@ Publications:
 - Duchessi, P. and Lauria, E. (2013). Decision tree models for profiling ski resorts’ promotional and advertising strategies and the impact on sales. 40(15):5822–5829.
 
 
-
 # 5: Cluster Dyamics Algorithm
-File name: Cluster_Dynamics_algorithm.R
+View: <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Cluster_Dynamics_algorithm.R">R Code</a> 
 
 # 6: XGBoost Algorithm
 XGBoost is a decision-tree-based ensemble Machine Learning algorithm that uses a gradient boosting framework. In prediction problems involving unstructured data (images, text, etc.) artificial neural networks tend to outperform all other algorithms or frameworks. However, when it comes to small-to-medium structured/tabular data, decision tree based algorithms are considered best-in-class right now. XGBoost and Gradient Boosting Machines (GBMs) are both ensemble tree methods that apply the principle of boosting weak learners (CARTs generally) using the gradient descent architecture. However, XGBoost improves upon the base GBM framework through systems optimization and algorithmic enhancements.
@@ -82,7 +77,8 @@ XGBoost is a decision-tree-based ensemble Machine Learning algorithm that uses a
 </p>
 
 # 7: RFM Customer Segmentation Algorithm
-File names: RFM_model.R, Recency_Frequency_Monetary_model.pdf
+View: <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Recency_Frequency_Monetary_model.pdf">Paper</a>
+View: <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/RFM_model.R">R Code</a> 
 
 RFM stands for recency, frequency and monetary. RFM segmentation is a great method to identify groups of customers for special treatment. RFM segmentation allows marketers to target specific clusters of customers with communications that are much more relevant for their particular behavior – and thus generate much higher rates of response, plus increased loyalty and customer lifetime value. Data such as purchase history, browsing history, prior campaign response patterns and demographics can all be used to identify specific groups of customers that can be addressed with offers very relevant to each. 
 

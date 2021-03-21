@@ -19,6 +19,9 @@ Publications:
 
 # 2: Linear Discriminant Analysis (LDA) Algorithm
 File name: LDA.R 
+View: <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA.R">R Code</a> 
+
+
 Programming Language: R 
 Note: the code contains LDA and robust LDA mannually written functions (checked with the library function's output)
 
@@ -31,7 +34,8 @@ Publications:
 
 
 # 3: K-Means Algorithm
-File name: K_Means_Clustering.R, K_Means_Algorithm.pdf
+View: <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/K_Means_Algorithm.pdf">Paper</a>
+View: <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/K_Means_Clustering.R">R Code</a> 
 
 K-means clustering is a method of vector quantization with a goal to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster. k-means clustering minimizes within-cluster variances (squared Euclidean distances). This algorithm is also referred to as Lloyd's algorithm, particularly in the computer science community. It is sometimes also referred to as "naïve k-means", because there exist much faster alternatives. Target number k needs to be pre-determined, it refers to the number of centroids you need in the dataset. A centroid is the imaginary or real location representing the center of the cluster. Every data point is allocated to each of the clusters through reducing the in-cluster sum of squares. In other words, the K-means algorithm identifies k number of centroids, and then allocates every data point to the nearest cluster, while keeping the centroids as small as possible.
 The ‘means’ in the K-means refers to averaging of the data; that is, finding the centroid.
@@ -48,7 +52,8 @@ Publications:
 
 
 # 4: Descision Tree Algorithm
-File name: Decision_Tree_Clustering.R, Decision_Trees_Clustering.pdf
+View: <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Decision_Trees_Clustering.pdf">Paper</a>
+View: <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Decision_Tree_Clustering.R">R Code</a> 
 
 Decision tree is a decision support tool that uses a tree-like model of decisions and their possible consequences, including event probabilities. In Machine Learning, this algorithm is often referred as "Decision Tree Learning". Decision Tree Learning is one of the predictive modelling approaches used in statistics, data mining and machine learning. It uses a Decision Tree (as a predictive model) to cluster the entire sample of observations into clsuters (represented by the leaves of the table). There are two type of Decision Trees: Classification and Regression Trees. Tree models where the target variable can take a discrete set of values are called classification trees; in this type of tree structures, leaves represent class labels and branches represent conjunctions of features that lead to those class labels. Decision Trees where the target variable can take continuous values (usually real numbers) are called regression trees. Because of its intelligibility and simplicity, Decision Tree Algorithms are considered one of most popular ML algorithms.
 

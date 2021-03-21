@@ -1,10 +1,7 @@
 # Data Science Algorithms 
 # 1: TopN Movie Recommender Case Study
-
-You can view the Paper/Documentation here: https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.pdf
-
-View the Python Code: https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py
-
+View: <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.pdf">Paper</a>
+View: <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py">Python Code</a> 
 
 The MovieLens dataset consisting of 20M ratings and 466K tag applications across 27K movies spanning a period of 20 years, from January 1995 to March 2015, is used to constract simple Top N Movie Recommender that generates N recommendations for a user using Item based Nearest-Neighbor Collaborative Filtering. In case of Item-based CF, the system finds similar items and assuming that similar items will be rated in a similar way by the same person, it predicts the rating corresponding to a user assigned to that item. Usually, the Item-based CF is preferred over the User-based CF because users can change their preferences and choices (aging, change of environment) whereas items (relatively) does not change over time.
 

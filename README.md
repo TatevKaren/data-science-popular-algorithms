@@ -1,5 +1,5 @@
 # Data Science Algorithms 
-# 1: TopN Movie Recommender Case Study
+# TopN Movie Recommender Case Study
 View <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.pdf">Paper here</a>
 View: <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py">Python Code here</a> 
 
@@ -17,7 +17,7 @@ Publications:
 - Aggarwal, C. (2016). Recommender Systems. Thomas J. Watson Research Center.
 - Billsus, D. and Pazzani, M. J. (1998). Learning collaborative information filters. In Proceedings of the Fifteenth International Conference on Machine Learning, pages 46–54. Morgan Kaufmann Publishers Inc.
 
-# 2: Linear Discriminant Analysis (LDA) Algorithm
+# Linear Discriminant Analysis (LDA) Algorithm
 View: <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA.R">R Code here</a> <br>
 Note: the code contains LDA and robust LDA mannually written functions (checked with the library function's output)
 
@@ -29,7 +29,7 @@ Publications:
 - Zhao, H., Wang, Z., and Nie, F. (2019) A New Formulation of Linear Discriminant Analysis for Robust Dimensionality Reduction. 31(4):629-640
 
 
-# 3: K-Means Algorithm
+# K-Means Algorithm
 View <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/K_Means_Algorithm.pdf">Paper here</a>
 View <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/K_Means_Clustering.R">R Code here</a> 
 
@@ -47,7 +47,7 @@ Publications:
 - Na, S., Xumin, L. and Yong, G. (2010), Research on k-means Clustering Algorithm: An Improved k-means Clustering Algorithm, 2010, pp. 63-67.
 
 
-# 4: Descision Tree Algorithm
+# Descision Tree Algorithm
 View <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Decision_Trees_Clustering.pdf">Paper here</a>
 View <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Decision_Tree_Clustering.R">R Code here</a> 
 
@@ -64,11 +64,11 @@ Publications:
 - Duchessi, P. and Lauria, E. (2013). Decision tree models for profiling ski resorts’ promotional and advertising strategies and the impact on sales. 40(15):5822–5829.
 
 
-# 5: Cluster Dyamics Algorithm
+# Cluster Dyamics Algorithm
 View <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Cluster_Dynamics_algorithm.R">R Code here</a> 
 Once you have determined the customers are clustered to certain class, for example Good, Better, and Best then it can also be very helpful to predict the likelihood of each custoomer to move the another cluster. If you have computed the likelihood of a customer belonging to each of these three classes, for instance by using Decision Trees, then the only thing yoou have to do to perform comparison between user's current class and the class this customer is most likely to go. If the two are the same then the customer is likely to stay in the same class whereas, for example, if the user belongs to class Better and has the following likelihood distribution: Good 0.8, Better 0.1, and Best 0.1, then the client is most likely to move from the Better class to the Good class. This is what this algorthm is designed to do for a set of customers and given their clss distributions.
 
-# 6: XGBoost Algorithm
+# XGBoost Algorithm
 XGBoost is a decision-tree-based ensemble Machine Learning algorithm that uses a gradient boosting framework. In prediction problems involving unstructured data (images, text, etc.) artificial neural networks tend to outperform all other algorithms or frameworks. However, when it comes to small-to-medium structured/tabular data, decision tree based algorithms are considered best-in-class right now. XGBoost and Gradient Boosting Machines (GBMs) are both ensemble tree methods that apply the principle of boosting weak learners (CARTs generally) using the gradient descent architecture. However, XGBoost improves upon the base GBM framework through systems optimization and algorithmic enhancements.
 
 <p align="left">
@@ -77,7 +77,7 @@ XGBoost is a decision-tree-based ensemble Machine Learning algorithm that uses a
   width="550" height="250">
 </p>
 
-# 7: RFM Customer Segmentation Algorithm
+# RFM Customer Segmentation Algorithm
 View <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Recency_Frequency_Monetary_model.pdf">Paper here</a>
 View <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/RFM_model.R">R Code here</a> 
 
@@ -89,8 +89,6 @@ RFM stands for recency, frequency and monetary. RFM segmentation is a great meth
   width="550" height="300">
 </p>
  
-
-
 - **Recency:** How much time has elapsed since a customer’s last activity or transaction with the brand? 
 - **Frequency:** How often has a customer transacted or interacted with the brand during a particular period of time? 
 - **Monetary:** Also referred to as “monetary value,” this factor reflects how much a customer has spent with the brand during a particular period of time. 

@@ -31,6 +31,7 @@ Publications:
 
 # K-Means Algorithm
 View <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/K_Means_Algorithm.pdf">Paper here</a>
+
 View <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/K_Means_Clustering.R">R Code here</a> 
 
 K-means clustering is a method of vector quantization with a goal to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster. k-means clustering minimizes within-cluster variances (squared Euclidean distances). This algorithm is also referred to as Lloyd's algorithm, particularly in the computer science community. It is sometimes also referred to as "naïve k-means", because there exist much faster alternatives. Target number k needs to be pre-determined, it refers to the number of centroids you need in the dataset. A centroid is the imaginary or real location representing the center of the cluster. Every data point is allocated to each of the clusters through reducing the in-cluster sum of squares. In other words, the K-means algorithm identifies k number of centroids, and then allocates every data point to the nearest cluster, while keeping the centroids as small as possible.
@@ -49,6 +50,7 @@ Publications:
 
 # Descision Tree Algorithm
 View <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Decision_Trees_Clustering.pdf">Paper here</a>
+
 View <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Decision_Tree_Clustering.R">R Code here</a> 
 
 Decision tree is a decision support tool that uses a tree-like model of decisions and their possible consequences, including event probabilities. In Machine Learning, this algorithm is often referred as "Decision Tree Learning". Decision Tree Learning is one of the predictive modelling approaches used in statistics, data mining and machine learning. It uses a Decision Tree (as a predictive model) to cluster the entire sample of observations into clsuters (represented by the leaves of the table). There are two type of Decision Trees: Classification and Regression Trees. Tree models where the target variable can take a discrete set of values are called classification trees; in this type of tree structures, leaves represent class labels and branches represent conjunctions of features that lead to those class labels. Decision Trees where the target variable can take continuous values (usually real numbers) are called regression trees. Because of its intelligibility and simplicity, Decision Tree Algorithms are considered one of most popular ML algorithms.
@@ -66,6 +68,7 @@ Publications:
 
 # Cluster Dyamics Algorithm
 View <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Cluster_Dynamics_algorithm.R">R Code here</a> 
+
 Once you have determined the customers are clustered to certain class, for example Good, Better, and Best then it can also be very helpful to predict the likelihood of each custoomer to move the another cluster. If you have computed the likelihood of a customer belonging to each of these three classes, for instance by using Decision Trees, then the only thing yoou have to do to perform comparison between user's current class and the class this customer is most likely to go. If the two are the same then the customer is likely to stay in the same class whereas, for example, if the user belongs to class Better and has the following likelihood distribution: Good 0.8, Better 0.1, and Best 0.1, then the client is most likely to move from the Better class to the Good class. This is what this algorthm is designed to do for a set of customers and given their clss distributions.
 
 # XGBoost Algorithm
@@ -79,6 +82,7 @@ XGBoost is a decision-tree-based ensemble Machine Learning algorithm that uses a
 
 # RFM Customer Segmentation Algorithm
 View <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Recency_Frequency_Monetary_model.pdf">Paper here</a>
+
 View <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/RFM_model.R">R Code here</a> 
 
 RFM stands for recency, frequency and monetary. RFM segmentation is a great method to identify groups of customers for special treatment. RFM segmentation allows marketers to target specific clusters of customers with communications that are much more relevant for their particular behavior – and thus generate much higher rates of response, plus increased loyalty and customer lifetime value. Data such as purchase history, browsing history, prior campaign response patterns and demographics can all be used to identify specific groups of customers that can be addressed with offers very relevant to each. 

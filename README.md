@@ -80,6 +80,9 @@ XGBoost is a decision-tree-based ensemble Machine Learning algorithm that uses a
   width="550" height="250">
 </p>
 
+Publications:
+- Chen T., and Guestrin C. E. (2016), XGBoost: A Scalable Tree Boosting System.  KDD '16: Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data MiningAugust :785–794
+
 # RFM Customer Segmentation Algorithm
 View <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Recency_Frequency_Monetary_model.pdf">Paper here</a>
 

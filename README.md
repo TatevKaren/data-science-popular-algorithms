@@ -74,6 +74,8 @@ Once you have determined the customers are clustered to certain class, for examp
 If the two are the same then the customer is likely to stay in the same class whereas, for example, if the user belongs to class Better and has the following likelihood distribution: Good 0.8, Better 0.1, and Best 0.1, then the client is most likely to move from the Better class to the Good class. This is what this algorthm is designed to do for a set of customers and given their clss distributions.
 
 # XGBoost Algorithm
+View <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/XGBoost_model.scala">Scala Code here</a> 
+
 XGBoost is a decision-tree-based ensemble Machine Learning algorithm that uses a gradient boosting framework. In prediction problems involving unstructured data (images, text, etc.) artificial neural networks tend to outperform all other algorithms or frameworks. However, when it comes to small-to-medium structured/tabular data, decision tree based algorithms are considered best-in-class right now. XGBoost and Gradient Boosting Machines (GBMs) are both ensemble tree methods that apply the principle of boosting weak learners (CARTs generally) using the gradient descent architecture. However, XGBoost improves upon the base GBM framework through systems optimization and algorithmic enhancements.
 
 <p align="left">

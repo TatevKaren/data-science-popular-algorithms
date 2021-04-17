@@ -17,10 +17,10 @@
   
   
   <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/LDA_figure.png?raw=true?raw=true"
-  width="500" height="200"> </p>
+  width="500" height="250"> </p>
   <br>
   
-  <p> <img src="  https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/Matrix_Factorization_figure.png?raw=true?raw=true"
+  <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/Matrix_Factorization_figure.png?raw=true?raw=true"
   width="500" height="200"> </p>
   <br>
   

@@ -16,7 +16,7 @@
   <br>
   
   
-  <p> <img src="  https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/LDA_figure.png?raw=true"
+  <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/LDA_figure.png?raw=true?raw=true"
   width="600" height="400"> </p>
   <br>
   

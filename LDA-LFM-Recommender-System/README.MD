@@ -6,15 +6,21 @@
   width="1000" height="400"> </p>
   <br>
   
-  Medium Article : https://medium.com/mlearning-ai/using-customer-and-product-features-in-recommender-systems-2734258873cf
-  Conference Presentation Slides: https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/ConferencePresentation_SAC2021.pdf
-  Conference Presentation Youtube Video: https://www.youtube.com/watch?v=i_j59gQTU6w&t=42s&ab_channel=TatevKaren
+  - Medium Article : https://medium.com/mlearning-ai/using-customer-and-product-features-in-recommender-systems-2734258873cf
+  - Conference Presentation Slides: https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/ConferencePresentation_SAC2021.pdf
+  - Conference Presentation Youtube Video: https://www.youtube.com/watch?v=i_j59gQTU6w&t=42s&ab_channel=TatevKaren
   
   
   <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/10_30_rating_review_figure.png?raw=true?raw=true"
-  alt="Multivariate Linear Regression plot"
-  width="500" height="400"> </p>
+  width="600" height="400"> </p>
   <br>
+  
+  
+  <p> <img src="  https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/LDA_figure.png?raw=true"
+  width="600" height="400"> </p>
+  <br>
+  
+  
   
   
   

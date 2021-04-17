@@ -30,9 +30,9 @@
   <br>
   
   <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/Picture%202.png?raw=true"
-  width="650" height="400"> </p>
+  width="650" height="450"> </p>
   <br>
 
   <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/Picture%203.png?raw=true"
-  width="650" height="300"> </p>
+  width="650" height="350"> </p>
   <br>

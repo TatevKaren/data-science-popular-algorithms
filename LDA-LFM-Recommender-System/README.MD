@@ -25,14 +25,14 @@
   <br>
   
 
- <p> <img src="  https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/Results%201.png?raw=true?raw=true"
+ <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/Results%201.png?raw=true?raw=true"
   width="500" height="200"> </p>
   <br>
   
-  <p> <img src="  https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/Results%202.png?raw=true?raw=true"
+  <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/Results%202.png?raw=true?raw=true"
   width="500" height="200"> </p>
   <br>
 
-  <p> <img src="  https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/Results%203.png?raw=true?raw=true"
+  <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/Results%203.png?raw=true?raw=true"
   width="500" height="200"> </p>
   <br>

@@ -1,4 +1,4 @@
-# LDA-LFM Recommender System (This Page is being Updated)
+# LDA-LFM Recommender System 
 **This work is based on a paper preseted and published at 36th ACM/SIGAPP Symposium on Applied Computing (SAC 2021)**
 <br>
 <p> <img href ="https://medium.com/mlearning-ai/using-customer-and-product-features-in-recommender-systems-2734258873cf" src="https://miro.medium.com/max/1120/1*OAHUmDf7SkFFeYF6Bsa5EQ.png?raw=true"
@@ -11,11 +11,15 @@
   - Check Out <a href="https://www.youtube.com/watch?v=i_j59gQTU6w&t=42s&ab_channel=TatevKaren">Conference Presentation Youtube Video</a>
   - Check Out <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/ConferencePresentation_SAC2021.pdf"> Conference Presentation Slides</a>
   
-    <br>
+  <br>
   <br>
   
+  
+# Amazon Product Feedback Data Visualization
+
+  
   <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/10_30_rating_review_figure.png?raw=true?raw=true"
-  width="600" height="400"> </p>
+  width="600" height="400"> Percentage of ratings and reviews per item. Brown (dark grey for black and white print) bars represent the percentage of items with less than 10 ratings per category. Green (light grey for black and white print) bars rep- resent the percentage of items having on average more than 30 words per product category.</p>
   <br>
     <br>
   <br>

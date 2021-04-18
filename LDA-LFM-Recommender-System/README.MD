@@ -15,7 +15,7 @@
   <br>
   
   
-# Amazon 23 Product Datasets
+# Amazon Review Big Data
 In this expeiment, we used collection of datasets provided corresponding to the 23 product categories supplied by **Amazon.com Review Data**. This data without duplicates was prepared by <a href = "https://jmcauley.ucsd.edu/data/amazon/">Julian McAuley</a>. It consists of **142.8 million** product reviews and a metadata for 9.4 million products, spanning a period of 18 years, from May 1996 to July 2014 
 <br>
   <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/10_30_rating_review_figure.png?raw=true?raw=true"

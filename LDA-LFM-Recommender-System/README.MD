@@ -6,9 +6,9 @@
   width="900" height="300"> </p>
   <br>
   
-  - Medium Article : https://medium.com/mlearning-ai/using-customer-and-product-features-in-recommender-systems-2734258873cf
-  - Conference Presentation Slides: https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/ConferencePresentation_SAC2021.pdf
-  - Conference Presentation Youtube Video: https://www.youtube.com/watch?v=i_j59gQTU6w&t=42s&ab_channel=TatevKaren
+  - Check Out <a href="https://medium.com/mlearning-ai/using-customer-and-product-features-in-recommender-systems-2734258873cf">Medium Article </a> About This Work
+  - Check Out <a href="https://www.youtube.com/watch?v=i_j59gQTU6w&t=42s&ab_channel=TatevKaren">Conference Presentation Youtube Video</a>
+  - Check Out <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/ConferencePresentation_SAC2021.pdf"> Conference Presentation Slides</a>
   
   
   <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/10_30_rating_review_figure.png?raw=true?raw=true"

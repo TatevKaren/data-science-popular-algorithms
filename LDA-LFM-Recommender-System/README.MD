@@ -15,9 +15,9 @@
   <br>
   
   
-# Amazon Product Feedback Data Visualization
-
-  
+# Amazon 23 Product Datasets
+In this expeiment, we used collection of datasets provided corresponding to the 23 product categories supplied by **Amazon.com Review Data**. This data without duplicates was prepared by <a href = "https://jmcauley.ucsd.edu/data/amazon/">Julian McAuley</a>. It consists of **142.8 million** product reviews and a metadata for 9.4 million products, spanning a period of 18 years, from May 1996 to July 2014 
+<br>
   <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/10_30_rating_review_figure.png?raw=true?raw=true"
   width="600" height="400"> </p>
 This figure visualizes the percentage of ratings and reviews per item. Brown (dark grey for black and white print) bars represent the percentage of items with less than 10 ratings per category. Green (light grey for black and white print) bars rep- resent the percentage of items having on average more than 30 words per product category.

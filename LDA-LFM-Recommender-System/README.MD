@@ -27,6 +27,31 @@ This figure visualizes the percentage of ratings and reviews per item. Brown (da
  
  
 # Python Code
+To reproduce the results obtained in this analysis you can execute following Python coded step-by-step. Note that many of the libraries such as **Tensorflow** need to be preinstalled on your computer. You can use the following syntax in your command line to install the desired Python package:
+
+# Check the versions of Pip3 and Python
+python3 --version
+pip3 --version
+
+# Install necessary python packages.
+sudo apt-get install python3-pip python3-dev -y
+
+# Upgrade pipo this is 
+pip3 install --upgrade pip
+
+# Install tensorflow (cpu only)
+pip3 install tensorflow
+
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
+<br>
 - Step 1: <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Required%20Libraries.py"> Importing Required Python Libraries </a>
 - Step 2: <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Data%20Preparation.py"> Data Preparation</a>
 - Step 3: <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Data%20Transformation.py"> Data Transformation</a>

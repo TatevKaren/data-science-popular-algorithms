@@ -24,17 +24,9 @@ This figure visualizes the percentage of ratings and reviews per item. Brown (da
   <br>
     <br>
   <br>
-  
-  <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/LDA_figure.png?raw=true?raw=true"
-  width="500" height="250"> </p>
-  <br>
-    <br>
-  <br>
-  <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/Matrix_Factorization_figure.png?raw=true?raw=true"
-  width="500" height="200"> </p>
-  <br>
-    <br>
-  <br>
+ 
+ 
+ # Model Performance Visualizatiion 
 
  <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/Results%201.png?raw=true"
   width="650" height="400"> </p>
@@ -53,14 +45,14 @@ This figure visualizes the percentage of ratings and reviews per item. Brown (da
 
 
 # Python Code
-- https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Required%20Libraries.py
-- https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Data%20Preparation.py
-- https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Data%20Transformation.py
-- https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Data%20Transformation%20NLP.py
-- https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Sparse%20Matrix%20Generation.py
-- https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Offset%20Recommender%20System.py
-- https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Baseline%20Recommender%20System.py
-- https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Standard%20Matrix%20Factorization%20Recommender%20System.py
-- https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20LDAFirst%20Recommender%20System.py
-- https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Proposed%20LDA-LFM%20algorithm.py
+- Step 1: <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Required%20Libraries.py"> Importing Required Python Libraries </a>
+- Step 2: <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Data%20Preparation.py"> Data Preparation</a>
+- Step 3: <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Data%20Transformation.py"> Data Transformation</a>
+- Step 4: <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Data%20Transformation%20NLP.py"> Data Transformation Natural Language Preprocessing (NLP)</a>
+- Step 5: <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Sparse%20Matrix%20Generation.py"> Data Transformation (Sparse Matrix Generation)</a>
+- Step 6: <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Offset%20Recommender%20System.py"> Offset Recommender Algorithm</a>
+- Step 7: <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Baseline%20Recommender%20System.py"> Baseline Recommender Algorithm</a>
+- Step 8: <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Standard%20Matrix%20Factorization%20Recommender%20System.py"> Standard Matrix Factorization Recommender Algorithm </a>
+- Step 9: <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20LDAFirst%20Recommender%20System.py"> LDAFirst Recommender Algorithm</a>
+- Step 10: <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Pyton-Code/LDA-LFM:%20Proposed%20LDA-LFM%20algorithm.py"> LDA-LFM Recommender Algorithm</a>
 

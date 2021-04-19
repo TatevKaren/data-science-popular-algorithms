@@ -66,15 +66,14 @@ pip3 install tensorflow
  # Model Performance Visualizatiion 
  <br>
  
- 
- Performance of **proposed LDA-LFM recommender system** compared to **Offset** and **Baseline Recommender Model** 
+ Performance of **proposed LDA-LFM recommender system** compared to **Offset** and **Baseline Recommender Model** in terms of Mean Squared Error (MSE)
  <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/Results%201.png?raw=true"
   width="650" height="400"> </p>
   <br>
     <br>
   <br>
   
-  Performance of **proposed LDA-LFM recommender system** compared to standard **Matrix Factorization** and **LDAFirst model** 
+  Performance of **proposed LDA-LFM recommender system** compared to standard **Matrix Factorization** and **LDAFirst model** in terms of Mean Squared Error (MSE)
    <br><p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/Picture%202.png?raw=true"
   width="650" height="450"> </p>
   <br>

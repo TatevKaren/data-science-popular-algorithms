@@ -80,7 +80,7 @@ pip3 install tensorflow
  Performance of **proposed LDA-LFM recommender system** compared to itself when adding 1-4 **extra features** in terms of Mean Squared Error (MSE)
 
   <p> <img src="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/LDA-LFM-Recommender-System/Figures/Picture%203.png?raw=true"
-  width="650" height="350"> </p>
+  width="650" height="400"> </p>
   <br>
   <br>
   <br>

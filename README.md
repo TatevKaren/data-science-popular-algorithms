@@ -1,4 +1,4 @@
-# TopN Movie Recommende Case Study
+# TopN Movie Recommender Case Study
 View <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.pdf">Paper here</a>
 
 View: <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py">Python Code here</a> 

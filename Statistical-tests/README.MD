@@ -3,12 +3,13 @@
 ## Binomial test
 
 ## T-test
+
+## Z-test
 <p>
   <img width =600 src = 
 https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statistical-tests/Z-test.png?raw=true>
  </p> 
 
-## Z-test
 
 ## Chi-2 test
 

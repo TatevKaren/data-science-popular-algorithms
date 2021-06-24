@@ -1,6 +1,6 @@
 # Paremetric Tests
 
-## Binomial test
+## Binomial 2 Sample test
 
 <p>
   <img width =700 src = 

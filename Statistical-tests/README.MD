@@ -17,6 +17,11 @@ https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statisti
 
 
 ## Chi-2 test
+<p>
+  <img width =700 src = 
+https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statistical-tests/Chi2_Test.png?raw=true
+?raw=true>
+ </p> 
 
 # Non-parametric tests
 

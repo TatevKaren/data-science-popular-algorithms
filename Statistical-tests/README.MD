@@ -4,7 +4,7 @@
 
 ## T-test
 <p>
-  <img width =400 src = 
+  <img width =600 src = 
 https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statistical-tests/Z-test.png?raw=true>
  </p> 
 

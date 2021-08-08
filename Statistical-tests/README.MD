@@ -5,7 +5,7 @@
 
 <p>
   <img width =700 src = 
-https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statistical-tests/Binomial_2sample_2sided.png?raw=true?raw=true>
+https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statistical-tests/Binomial_2sample_2sided.png?raw=true>
  </p> 
  
 ## 2 Sample Z-test for comparing means 
@@ -24,6 +24,8 @@ https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statisti
 
 
 ## Chi-2 test
+<a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statistical-tests/Chi2-Test.py"> 2 Sample Chi-square Test Code</a>  
+
 <p>
   <img width =700 src = 
 https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statistical-tests/Chi2_Test.png?raw=true

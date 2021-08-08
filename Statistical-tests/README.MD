@@ -8,6 +8,8 @@ https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statisti
  </p> 
 
 ## T-test
+<a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statistical-tests/2-Sample-2-sided-T-test.py"> 2 Sample T-test Python Code</a>  
+
 
 ## Z-test
 <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statistical-tests/2%20sample%20Z%20Test%20Porportions.py"> 2 Sample Z-test Python Code</a>  

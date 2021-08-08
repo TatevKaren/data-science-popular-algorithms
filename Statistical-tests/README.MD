@@ -10,7 +10,7 @@ https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statisti
 ## T-test
 
 ## Z-test
-<a src = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statistical-tests/2%20sample%20Z%20Test%20Porportions.py"> 2 Sample Z-test Python Code</a>  
+<p href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statistical-tests/2%20sample%20Z%20Test%20Porportions.py"> 2 Sample Z-test Python Code</p>  
 
 <p>
   <img width =700 src = 

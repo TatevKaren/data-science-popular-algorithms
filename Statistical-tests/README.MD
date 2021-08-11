@@ -34,6 +34,13 @@ https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statisti
 
 # Non-parametric tests
 
-## Wilcoxon Rank Sum Test
+## Wilcoxon Rank Sum Test/Mann-Whitney Test
+**For small samples**
+<a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statistical-tests/Mann_Whitney_U_test_small_sample.py"> Mann-Whitney Test Code for small samples</a>  
 
-## Mann-Whitney Test
+
+**For large samples**
+<a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statistical-tests/Mann_Whitney_U_test_large_sample.py"> Mann-Whitney Test Code for large samples</a>  
+
+
+

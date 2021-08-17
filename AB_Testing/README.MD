@@ -1,8 +1,9 @@
+# Work In Progress
 
-# Power Analysis
+## Power Analysis
 
-# A/A testing 
+## A/A testing 
 
-# Sample Size Calculation
+## Sample Size Calculation
 
-# Analysis of Results
+## Analysis of Results

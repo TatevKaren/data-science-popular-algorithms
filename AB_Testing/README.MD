@@ -1,6 +1,4 @@
-
-
-# A/B Testing
+# A/B Testing (Work In Progress)
 <img alt="Screenshot_2021-06-07_at_9 18 33_AM" src="https://user-images.githubusercontent.com/76843403/130661485-8500fcd0-c41e-4899-b6bf-38964fb8257c.jpeg" width="1000" height="600" align = "center">
 
 https://tatev-aslanyan.medium.com/

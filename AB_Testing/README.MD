@@ -9,8 +9,8 @@
 ## Statistical Sampling
 **Statistical Sampling Techniques** <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/tree/main/Sampling%20Techniques"> Github Folder here</a>
 - **Random Sampling:** <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/tree/main/Sampling%20Techniques">Pyhton Code</a>
-- **Systematic Sampling:** <a href ="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Sampling%20Techniques/Systematic_Sampling.py"></a>
-- **Clustered Sampling:** <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Sampling%20Techniques/Cluster_Sampling.py"></a>
+- **Systematic Sampling:** <a href ="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Sampling%20Techniques/Systematic_Sampling.py">Python Code</a>
+- **Clustered Sampling:** <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Sampling%20Techniques/Cluster_Sampling.py">Python Code</a>
 - **Weigted Sampling:** <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Sampling%20Techniques/Weighted%20Sampling.py">Pyhton Code</a>
 - **Stratified Sampling:** <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Sampling%20Techniques/Stratified%20Sampling.py">Pyhton Code</a>
 

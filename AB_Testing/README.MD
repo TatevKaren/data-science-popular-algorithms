@@ -5,8 +5,7 @@
 
 **Statistical Tests for A/B testing:** <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/AB_Testing/Statistical%20tests%20for%20AB_testing"> Github Folder here</a>
 
-
-## Sampling
+**Statistical Sampling Techniques** <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/tree/main/Sampling%20Techniques"> </a>
 
 ## Power Analysis
 

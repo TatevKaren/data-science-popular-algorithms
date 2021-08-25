@@ -5,7 +5,14 @@
 
 **Statistical Tests for A/B testing:** <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/AB_Testing/Statistical%20tests%20for%20AB_testing"> Github Folder here</a>
 
+
+## Statistical Sampling
 **Statistical Sampling Techniques** <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/tree/main/Sampling%20Techniques"> Github Folder here</a>
+- **Random Sampling:** <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/tree/main/Sampling%20Techniques">Pyhton Code</a>
+- **Systematic Sampling:** <a href ="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Sampling%20Techniques/Systematic_Sampling.py"></a>
+- **Clustered Sampling:** <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Sampling%20Techniques/Cluster_Sampling.py"></a>
+- **Weigted Sampling:** <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Sampling%20Techniques/Weighted%20Sampling.py">Pyhton Code</a>
+- **Stratified Sampling:** <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Sampling%20Techniques/Stratified%20Sampling.py">Pyhton Code</a>
 
 ## Power Analysis
 

@@ -7,7 +7,7 @@
 
 
 ## Statistical Sampling
-<img width="500" height="380" alt="127278234-34830f6e-1a77-426b-b1da-2698dda039d4" src="https://user-images.githubusercontent.com/76843403/130869830-ee552d9e-8a29-4a71-ac64-fa5748799a7c.png">
+<img width="500" height="330" alt="127278234-34830f6e-1a77-426b-b1da-2698dda039d4" src="https://user-images.githubusercontent.com/76843403/130869830-ee552d9e-8a29-4a71-ac64-fa5748799a7c.png">
 
 
 **Statistical Sampling Techniques** <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/tree/main/Sampling%20Techniques"> Github Folder here</a>

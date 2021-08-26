@@ -5,10 +5,10 @@
 
 # Statistical Analysis in A/B testing:
 **Statistical Tests** <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/AB_Testing/Statistical%20tests%20for%20AB_testing"> Github Folder here</a>
-- **2 Sample Z-test for comparing sample proportions: ** <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statistical-tests/2%20sample%20Z%20Test%20Porportions.py">Python Code</a>
-- **2 Sample Z-test for comparing sample means: **<a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statistical-tests/2-Sample-2-sided-Z-test.py">Python Code</a>
-- **2 Sample T-test for comparing sample means: **<a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statistical-tests/2-Sample-2-sided-T-test.py">Python Code</a>
-- **2 Sample Chi-Square test for comparing sample means: **<a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statistical-tests/Chi2-Test.py">Python Code</a>
+- **2 Sample Z-test for comparing sample proportions:** <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statistical-tests/2%20sample%20Z%20Test%20Porportions.py">Python Code</a>
+- **2 Sample Z-test for comparing sample means:** <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statistical-tests/2-Sample-2-sided-Z-test.py">Python Code</a>
+- **2 Sample T-test for comparing sample means:** <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statistical-tests/2-Sample-2-sided-T-test.py">Python Code</a>
+- **2 Sample Chi-Square test for comparing sample means:** <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statistical-tests/Chi2-Test.py">Python Code</a>
 
 
 ## Statistical Sampling

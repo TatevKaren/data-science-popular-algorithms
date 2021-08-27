@@ -6,6 +6,17 @@
 <br>
 <br>
 
+## Statistical Sampling
+<img width="600" height="330" alt="127278234-34830f6e-1a77-426b-b1da-2698dda039d4" src="https://user-images.githubusercontent.com/76843403/130869830-ee552d9e-8a29-4a71-ac64-fa5748799a7c.png">
+
+
+**Statistical Sampling Techniques** <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/tree/main/Sampling%20Techniques"> Github Folder here</a>
+- **Random Sampling:** <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/tree/main/Sampling%20Techniques">Pyhton Code</a>
+- **Systematic Sampling:** <a href ="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Sampling%20Techniques/Systematic_Sampling.py">Python Code</a>
+- **Clustered Sampling:** <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Sampling%20Techniques/Cluster_Sampling.py">Python Code</a>
+- **Weigted Sampling:** <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Sampling%20Techniques/Weighted%20Sampling.py">Pyhton Code</a>
+- **Stratified Sampling:** <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Sampling%20Techniques/Stratified%20Sampling.py">Pyhton Code</a>
+
 
 ## Statistical Analysis in A/B testing:
 **Statistical Tests** <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/AB_Testing/Statistical%20tests%20for%20AB_testing"> Github Folder here</a>
@@ -17,16 +28,7 @@
 <br>
 <br>
 
-## Statistical Sampling
-<img width="600" height="330" alt="127278234-34830f6e-1a77-426b-b1da-2698dda039d4" src="https://user-images.githubusercontent.com/76843403/130869830-ee552d9e-8a29-4a71-ac64-fa5748799a7c.png">
 
-
-**Statistical Sampling Techniques** <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/tree/main/Sampling%20Techniques"> Github Folder here</a>
-- **Random Sampling:** <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/tree/main/Sampling%20Techniques">Pyhton Code</a>
-- **Systematic Sampling:** <a href ="https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Sampling%20Techniques/Systematic_Sampling.py">Python Code</a>
-- **Clustered Sampling:** <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Sampling%20Techniques/Cluster_Sampling.py">Python Code</a>
-- **Weigted Sampling:** <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Sampling%20Techniques/Weighted%20Sampling.py">Pyhton Code</a>
-- **Stratified Sampling:** <a href = "https://github.com/TatevKaren/mathematics-statistics-for-data-science/blob/main/Sampling%20Techniques/Stratified%20Sampling.py">Pyhton Code</a>
 
 ## Power Analysis
 

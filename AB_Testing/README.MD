@@ -1,3 +1,4 @@
+
 # A/B Testing (Work In Progress)
 <img alt="Screenshot_2021-06-07_at_9 18 33_AM" src="https://user-images.githubusercontent.com/76843403/130661485-8500fcd0-c41e-4899-b6bf-38964fb8257c.jpeg" width="800" height="500" align = "center">
 
@@ -22,6 +23,8 @@
 
 
 ## Statistical Analysis in A/B testing:
+<img width="461" alt="Screenshot 2021-08-31 at 7 45 35 PM" src="https://user-images.githubusercontent.com/76843403/131551016-db8dc26b-4afa-499e-9da5-71cf5852ff2f.png">
+
 **Statistical Tests** <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/AB_Testing/Statistical%20tests%20for%20AB_testing"> Github Folder here</a>
 - **2 Sample Z-test for comparing sample proportions:** <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statistical-tests/2%20sample%20Z%20Test%20Porportions.py">Python Code</a>
 - **2 Sample Z-test for comparing sample means:** <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Statistical-tests/2-Sample-2-sided-Z-test.py">Python Code</a>

@@ -22,7 +22,7 @@
 <br>
 
 
-## A/B Testing Results Analysis :
+## A/B Testing Results Analysis 
 <img width="461" alt="Screenshot 2021-08-31 at 7 45 35 PM" src="https://user-images.githubusercontent.com/76843403/131551016-db8dc26b-4afa-499e-9da5-71cf5852ff2f.png">
 
 **Statistical Tests** <a href = "https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/AB_Testing/Statistical%20tests%20for%20AB_testing"> Github Folder here</a>

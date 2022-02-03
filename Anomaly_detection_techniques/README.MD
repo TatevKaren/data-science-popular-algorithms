@@ -1,14 +1,13 @@
 # Anomaly Detection Case Study
 **Outlier Detection Using Unsupervised Machine Learning To Detect Anomalies**
 <br><br>
-<p> <img href ="https://medium.com/mlearning-ai/using-customer-and-product-features-in-recommender-systems-2734258873cf" src="https://miro.medium.com/max/1120/1*OAHUmDf7SkFFeYF6Bsa5EQ.png?raw=true"
-  alt="Multivariate Linear Regression plot"
+<p> <img href ="" src="https://www.neuraldesigner.com/images/outliers-blog.jpeg?raw=true"
   width="900" height="300"> </p>
   <br>
   
   <br><br>
 <p align="center">
-        <img src="https://img.shields.io/badge/ML-Case%20Study-redhttps://img.shields.io/badge/ML-Case%20Study-red"></a>
+        <img src="https://img.shields.io/badge/ML-Case%20Study-red"></a>
         <img src="https://img.shields.io/badge/ML-Unsupervised%20LEarning-green"></a>
         <img src="https://img.shields.io/badge/ML-Isolation%20Forest-9cf"></a>
         <img src="https://img.shields.io/badge/Evaluation-Cross%20Scoring-yellow"></a>

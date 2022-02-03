@@ -20,3 +20,16 @@
 In this analysis we aim to detect outliers by using contextual and behavioural attributes of the sam- ple. Outlier detection techniques are often referred to as Anomaly Detection techniques where the goal is to identify samples that exhibit an inconsistent behaviour given their contextual attributes (features). Stated differently, outliers are extreme and unexpected data points that deviate from other observations in the data, they may indicate experimental errors, variability in a measurement or a novelty (point outliers, contextual outliers, or collective outliers respectively).
 
 In this challenge, we will use Multivariate and Unsupervised Machine Learning Algorithm, Isolation Forest, for detecting outliers in our unlabelled data. Moreover, we will combine Isolation Forest with PCA technique for reducing the dimension of our data while keeping as much as possible information and for visualizing outliers in 2D and in 3D.
+
+## Case Study 
+In this case study we build a simple movie Recommender System that generates top N movie recommendations when a single input movie is provided.
+
+The <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/TopN_MovieRecommender.pdf"> Case Study Paper</a> and <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py">Python Code</a> contain the followin information<br>
+
+- Data Transformation 
+- Anomaly Detection Algorithms
+- Dim Reduction: Principal Component Analysis 
+- Multivariate Anomaly Detection: Isolation Forest
+- Unsupervised ML Model Evaluation (Cross Scoring)
+
+<br>

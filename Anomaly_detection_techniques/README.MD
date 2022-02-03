@@ -7,7 +7,7 @@
   
   <br><br>
 <p align="center">
-        <img src="https://img.shields.io/badge/ML-Case%20Study-red"></a>
+        <img src="https://img.shields.io/badge/ML-Anomaly%20Detection%20Case%20Study-red"></a>
         <img src="https://img.shields.io/badge/ML-Unsupervised%20Learning-green"></a>
         <img src="https://img.shields.io/badge/ML-Isolation%20Forest-9cf"></a>
         <img src="https://img.shields.io/badge/Evaluation-Cross%20Scoring-yellow"></a>

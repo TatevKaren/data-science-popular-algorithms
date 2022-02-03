@@ -3,10 +3,11 @@
         <img src="https://img.shields.io/badge/ML-Unsupervised%20Learning-green"></a>
         <img src="https://img.shields.io/badge/ML-Isolation%20Forest-9cf"></a>
         <img src="https://img.shields.io/badge/Evaluation-Cross%20Scoring-yellow"></a>
-        <img src="https://img.shields.io/badge/IDE-PyCharm-brightgreen?style=flat&logo=python"></a>
+        <img src="https://img.shields.io/badge/Python_IDE-PyCharm-brightgreen?style=flat&logo=python"></a>
       
 </p>
   <br><br>
+  
 # Anomaly Detection Case Study
 **Outlier Detection Using Unsupervised Machine Learning To Detect Anomalies**
 <br><br>

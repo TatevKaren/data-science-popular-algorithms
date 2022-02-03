@@ -8,10 +8,10 @@
   <br><br>
 <p align="center">
         <img src="https://img.shields.io/badge/ML-Case%20Study-red"></a>
-        <img src="https://img.shields.io/badge/ML-Unsupervised%20LEarning-green"></a>
+        <img src="https://img.shields.io/badge/ML-Unsupervised%20Learning-green"></a>
         <img src="https://img.shields.io/badge/ML-Isolation%20Forest-9cf"></a>
         <img src="https://img.shields.io/badge/Evaluation-Cross%20Scoring-yellow"></a>
-        <img src="https://img.shields.io/badge/Python%20IDE_PyCharm-green?style=flat&logo=python"></a>
+        <img src="https://img.shields.io/badge/IDE-PyCharm-brightgreen?style=flat&logo=python"></a>
       
 </p>
 <br> 

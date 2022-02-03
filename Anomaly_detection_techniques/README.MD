@@ -1,11 +1,3 @@
-# Anomaly Detection Case Study
-**Outlier Detection Using Unsupervised Machine Learning To Detect Anomalies**
-<br><br>
-<p align="center"> <img href ="" src="https://www.neuraldesigner.com/images/outliers-blog.jpeg?raw=true"
-  width="1000" height="500"> </p>
-  <br>
-  
-  <br><br>
 <p align="center">
         <img src="https://img.shields.io/badge/ML-Anomaly%20Detection%20Case%20Study-red"></a>
         <img src="https://img.shields.io/badge/ML-Unsupervised%20Learning-green"></a>
@@ -14,6 +6,15 @@
         <img src="https://img.shields.io/badge/IDE-PyCharm-brightgreen?style=flat&logo=python"></a>
       
 </p>
+  <br><br>
+# Anomaly Detection Case Study
+**Outlier Detection Using Unsupervised Machine Learning To Detect Anomalies**
+<br><br>
+<p align="center"> <img href ="" src="https://www.neuraldesigner.com/images/outliers-blog.jpeg?raw=true"
+  width="1000" height="500"> </p>
+  <br>
+  
+
 <br> 
 
 ### Introduction

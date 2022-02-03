@@ -11,7 +11,7 @@
         <img src="https://img.shields.io/badge/ML-Unsupervised%20LEarning-green"></a>
         <img src="https://img.shields.io/badge/ML-Isolation%20Forest-9cf"></a>
         <img src="https://img.shields.io/badge/Evaluation-Cross%20Scoring-yellow"></a>
-        <img src="https://img.shields.io/badge/Python%20Scoring-green?style=plastic&logo=python"></a>
+        <img src="https://img.shields.io/badge/Python%20IDE_PyCharm-green?style=flat&logo=python"></a>
       
 </p>
 <br> 

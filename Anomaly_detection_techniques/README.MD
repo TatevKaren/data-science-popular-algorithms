@@ -3,7 +3,7 @@
         <img src="https://img.shields.io/badge/ML-Unsupervised%20Learning-green"></a>
         <img src="https://img.shields.io/badge/ML-Isolation%20Forest-9cf"></a>
         <img src="https://img.shields.io/badge/Evaluation-Cross%20Scoring-yellow"></a>
-        <img src="https://img.shields.io/badge/Python_IDE-PyCharm-brightgreen?style=flat&logo=python"></a>
+        <img src="https://img.shields.io/badge/Python_Jupiter_Notebook-brightgreen?style=flat&logo=jupiter"></a>
       
 </p>
   <br><br>
@@ -26,7 +26,7 @@ In this challenge, we will use Multivariate and Unsupervised Machine Learning Al
 ## Case Study 
 In this case study we build a simple movie Recommender System that generates top N movie recommendations when a single input movie is provided.
 
-The <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Anomaly_detection_techniques/Anomaly%20Detction%20Paper.pdf"> Case Study Paper</a> and <a href="https://github.com/TatevKaren/DataScience/blob/main/TopN_MovieRecommender.py">Python Code</a> contain the followin information<br>
+The <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Anomaly_detection_techniques/Anomaly%20Detction%20Paper.pdf"> Case Study Paper</a> and <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/main/Anomaly_detection_techniques/Unsupervised_Learning_Anomaly_Detection.ipynb">Jupiter Notebook</a> contain the followin information<br>
 
 - Data Transformation 
 - Anomaly Detection Algorithms

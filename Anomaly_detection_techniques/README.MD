@@ -12,7 +12,7 @@
 **Outlier Detection Using Unsupervised Machine Learning To Detect Anomalies**
 <br><br>
 <p align="center"> <img href ="" src="https://www.neuraldesigner.com/images/outliers-blog.jpeg?raw=true"
-  width="1000" height="500"> </p>
+  width="900" height="450"> </p>
   <br>
   
 

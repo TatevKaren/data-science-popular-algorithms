@@ -37,8 +37,15 @@ The <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/
 <br>
 
 
+### Isolation Forest
+![Aspose Words ba699e52-5906-4226-ba94-ee1e8b127b6e 009](https://user-images.githubusercontent.com/76843403/152495027-57fe0cd5-88c1-43ba-87f4-3f08fcf58c30.png)
+
+
 ### Detected Outliers
 ![Aspose Words ba699e52-5906-4226-ba94-ee1e8b127b6e 011](https://user-images.githubusercontent.com/76843403/152494913-2b4ec22b-28e8-4cb8-89d7-aa0e4b91ea0d.png)
 ![Aspose Words ba699e52-5906-4226-ba94-ee1e8b127b6e 012](https://user-images.githubusercontent.com/76843403/152494917-291e552a-3470-474d-954d-aa2407adf995.png)
 ![Aspose Words ba699e52-5906-4226-ba94-ee1e8b127b6e 013](https://user-images.githubusercontent.com/76843403/152494918-e198b026-3097-43f9-8108-91a95573ad2a.png)
 ![Aspose Words ba699e52-5906-4226-ba94-ee1e8b127b6e 014](https://user-images.githubusercontent.com/76843403/152494919-f094656d-ecf6-4b87-a987-588d77be5b0c.png)
+
+
+

@@ -37,6 +37,10 @@ The <a href="https://github.com/TatevKaren/data-science-popular-algorithms/blob/
 <br>
 
 
+### Unsupervised Anomaly Detection
+![Aspose Words ba699e52-5906-4226-ba94-ee1e8b127b6e 007](https://user-images.githubusercontent.com/76843403/152495109-0527470f-354a-4e17-94a9-55e7a31821b4.png)
+
+
 ### Isolation Forest
 ![Aspose Words ba699e52-5906-4226-ba94-ee1e8b127b6e 009](https://user-images.githubusercontent.com/76843403/152495027-57fe0cd5-88c1-43ba-87f4-3f08fcf58c30.png)
 

@@ -8,7 +8,7 @@
 </p>
   <br><br>
   
-# Anomaly Detection Case Study (WIP)
+# Anomaly Detection Case Study 
 **Outlier Detection Using Unsupervised Machine Learning To Detect Anomalies**
 <br><br>
 <p align="center"> <img href ="" src="https://www.neuraldesigner.com/images/outliers-blog.jpeg?raw=true"

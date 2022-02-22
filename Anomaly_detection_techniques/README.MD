@@ -9,7 +9,7 @@
   <br><br>
   
 # Anomaly Detection Case Study 
-**Outlier Detection Using Unsupervised Machine Learning To Detect Anomalies**
+**Using Unsupervised Machine Learning To Detect Anomalies/Outliers**
 <br><br>
 <p align="center"> <img href ="" src="https://www.neuraldesigner.com/images/outliers-blog.jpeg?raw=true"
   width="900" height="450"> </p>

@@ -6,7 +6,6 @@
         <img src="https://img.shields.io/badge/Python_Jupiter_Notebook-brightgreen?style=flat&logo=jupiter"></a>
       
 </p>
-  <br><br>
   
 # Anomaly Detection Case Study 
 **Using Unsupervised Machine Learning To Detect Anomalies/Outliers**

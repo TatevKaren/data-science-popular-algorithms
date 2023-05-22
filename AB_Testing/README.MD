@@ -2,7 +2,7 @@
 
 <img alt="Screenshot_2021-06-07_at_9 18 33_AM" src="https://user-images.githubusercontent.com/76843403/130661485-8500fcd0-c41e-4899-b6bf-38964fb8257c.jpeg" width="800" height="500" align = "center">
 
-**Blog Post With Detailed Explanation:** <a href="https://tatev-aslanyan.medium.com/](https://medium.com/towards-data-science/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a">published in Towards Data Science </a>
+**Blog Post With Detailed Explanation:** <a href="https://medium.com/towards-data-science/simple-and-complet-guide-to-a-b-testing-c34154d0ce5a">published in Towards Data Science </a>
 
 <br>
 <br>

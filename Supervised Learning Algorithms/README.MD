@@ -1,10 +1,8 @@
 ## Machine Learning Fundamentals Handbook 
 <img src="./Grab The Secrets To A Six-Figure Data Science Career!... FOR FREE (11).png">
-- contains theory of all ML algorihtms at high level
-- Python Example 
-- Example Visualization and Explanations
+Get access to all popular Machine LEarning algorithms with examples and Python code in this handbook
 
-<a href = "https://join.lunartech.ai/machine-learning-fundamentals--3f64f"> [Donload Here] </a>
+<a href = "https://join.lunartech.ai/machine-learning-fundamentals--3f64f"> [Donload for Free Here] </a>
 
 # Linear Regression 
  - for regression

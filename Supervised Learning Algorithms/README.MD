@@ -1,3 +1,11 @@
+## Machine Learning Fundamentals Handbook 
+
+- contains theory of all ML algorihtms at high level
+- Python Example 
+- Example Visualization and Explanations
+
+<a href = "https://join.lunartech.ai/machine-learning-fundamentals--3f64f"> [Donload Here] </a>
+
 # Linear Regression 
  - for regression
 

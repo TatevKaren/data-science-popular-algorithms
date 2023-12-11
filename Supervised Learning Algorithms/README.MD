@@ -1,5 +1,5 @@
 ## Machine Learning Fundamentals Handbook 
-
+<img href = "./Grab The Secrets To A Six-Figure Data Science Career!... FOR FREE (11).png">
 - contains theory of all ML algorihtms at high level
 - Python Example 
 - Example Visualization and Explanations

@@ -6,37 +6,37 @@ Get access to all popular Machine LEarning algorithms with examples and Python c
 
 # Linear Regression 
 - for regression
-- [Python code](https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/Supervised%20Learning%20Algorithms/Linear%20Regression)
+- <a href="https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/Supervised%20Learning%20Algorithms/Linear%20Regression">Python Code</a>
 
 # Logistic Regression 
 - for classification
-- [Python code](https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/Supervised%20Learning%20Algorithms/Logistic%20Regression)
+- <a href="https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/Supervised%20Learning%20Algorithms/Logistic%20Regression">Python Code</a>
 
 # Linear Discriminant Analysis 
 - for classification 
-- [Python code](https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/Supervised%20Learning%20Algorithms/Linear%20Discriminant%20Analysis%20(LDA))
+- <a href="https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/Supervised%20Learning%20Algorithms/Linear%20Discriminant%20Analysis%20(LDA)">Python Code</a>
 
 # Decision Trees
 - for regression
 - for classification 
-- [Python code](https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/Supervised%20Learning%20Algorithms/Decision%20Trees)
+- <a href="https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/Supervised%20Learning%20Algorithms/Decision%20Trees">Python Code</a>
 
 # Random Forest
 - for regression
 - for classification 
-- [Python code](https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/Supervised%20Learning%20Algorithms/Random%20Forest)
+- <a href="https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/Supervised%20Learning%20Algorithms/Random%20Forest">Python Code</a>
 
 # AdaBoost
 - for regression
 - for classification 
-- [Python code](https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/Supervised%20Learning%20Algorithms/AdaBoost)
+- <a href="https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/Supervised%20Learning%20Algorithms/AdaBoost">Python Code</a>
 
 # GBM (Gradient Boosting Models)
 - for regression
 - for classification 
-- [Python code](https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/Supervised%20Learning%20Algorithms/GradientBoostingModel)
+- <a href="https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/Supervised%20Learning%20Algorithms/GradientBoostingModel">Python Code</a>
 
 # XGBoost
 - for regression
 - for classification
-- [Python code](https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/Supervised%20Learning%20Algorithms/XGBoost)
+- <a href="https://github.com/TatevKaren/data-science-popular-algorithms/tree/main/Supervised%20Learning%20Algorithms/XGBoost">Python Code</a>
